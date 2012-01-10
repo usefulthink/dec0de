@@ -34,7 +34,7 @@ body {
 .logo {
     color: white;
     font: normal 120px 'RBNo2LightRegular';
-    text-shadow: 5px 0 0 #dec0de;
+    text-shadow: 5px 0px 0px #dec0de;
 }
 
 .logo-subline {
@@ -43,14 +43,14 @@ body {
     margin-top: -15px;
 
     color: #e55566;
-    text-shadow: 1px 0 2px #000;
+    text-shadow: 1px 0px 2px #000;
 
     font: normal 30px 'RBNo2LightAlternativeRegular';
 }
 
 .logo .hash {
     color: #5c4e4e;
-    text-shadow: 5px 0 0 #554248;
+    text-shadow: 5px 0px 0px #554248;
 }
 
 .forkme {
