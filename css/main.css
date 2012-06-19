@@ -26,6 +26,10 @@ body {
     color: white;
 }
 
+h1,h2 {
+    font-family: 'RBNo2LightRegular', Arial;
+}
+
 .container { width: 960px; margin: 0 auto; }
 .header {
     text-align: center;
@@ -34,7 +38,7 @@ body {
 .logo {
     color: white;
     font: normal 120px 'RBNo2LightRegular';
-    text-shadow: 5px 0px 0px #dec0de;
+    text-shadow: 4px 0px 0px #dec0de;
 }
 
 .logo-subline {
@@ -50,7 +54,7 @@ body {
 
 .logo .hash {
     color: #5c4e4e;
-    text-shadow: 5px 0px 0px #554248;
+    text-shadow: 4px 0px 0px #554248;
 }
 
 .forkme {
